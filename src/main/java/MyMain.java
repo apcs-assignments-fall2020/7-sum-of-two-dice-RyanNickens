@@ -37,26 +37,23 @@ public class MyMain {
         if (w == 6) {
           arr[4] = arr[4] + 1;
         }
-        if (w == 6) {
+        if (w == 7) {
           arr[5] = arr[5] + 1;
         }
-        if (w == 7) {
+        if (w == 8) {
           arr[6] = arr[6] + 1;
         }
-        if (w == 8) {
+        if (w == 9) {
           arr[7] = arr[7] + 1;
         }
-        if (w == 9) {
+        if (w == 10) {
           arr[8] = arr[8] + 1;
         }
-        if (w == 10) {
+        if (w == 11) {
           arr[9] = arr[9] + 1;
         }
-        if (w == 11) {
-          arr[10] = arr[10] + 1;
-        }
         else {
-          arr[11] = arr[11] + 1;
+          arr[10] = arr[10] + 1;
         }
         
       }
